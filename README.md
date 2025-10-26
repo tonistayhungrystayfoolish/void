@@ -1,40 +1,45 @@
-# Welcome to Void.
+# Welcome to **Aston** — The Future of Code.
 
 <div align="center">
 	<img
-		src="./src/vs/workbench/browser/parts/editor/media/slice_of_void.png"
-	 	alt="Void Welcome"
+		src="./src/vs/workbench/browser/parts/editor/media/slice_of_aston.png"
+	 	alt="Aston Welcome"
 		width="300"
 	 	height="300"
 	/>
 </div>
 
-Void is the open-source Cursor alternative.
+**Aston** is not just another code editor.  
+It’s a complete reimagining of how developers interact with AI, their codebase, and their creative flow. Built to outperform Claude Code, Cursor, and anything else in the race — Aston is your intelligent coding co-pilot, checkpoint system, and local AI powerhouse — all in one sleek, lightning-fast interface.
 
-Use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally. Void sends messages directly to providers without retaining your data.
+This repository contains the full source code for **Aston**. If you're here, you're early. And we like that.
 
-This repo contains the full sourcecode for Void. If you're new, welcome!
-
-- 🧭 [Website](https://voideditor.com)
-
-- 👋 [Discord](https://discord.gg/RSNjgaugJs)
-
-- 🚙 [Project Board](https://github.com/orgs/voideditor/projects/2)
-
+---
 
 ## Contributing
 
-1. To get started working on Void, check out our Project Board! You can also see [HOW_TO_CONTRIBUTE](https://github.com/voideditor/void/blob/main/HOW_TO_CONTRIBUTE.md).
+1. Want to shape the future of coding? Start here:  
+   Check out our [Project Board](https://github.com/orgs/astoneditor/projects/1) or read the [HOW_TO_CONTRIBUTE](https://github.com/astoneditor/aston/blob/main/HOW_TO_CONTRIBUTE.md) guide.
 
-2. Feel free to attend a casual weekly meeting in our Discord channel!
+2. Join our weekly community calls on Discord — casual, insightful, and always ahead of the curve.
 
+---
 
 ## Reference
 
-Void is a fork of the [vscode](https://github.com/microsoft/vscode) repository. For a guide to the codebase, see [VOID_CODEBASE_GUIDE](https://github.com/voideditor/void/blob/main/VOID_CODEBASE_GUIDE.md).
+Aston is a bold fork of the [VS Code](https://github.com/microsoft/vscode) repository — redesigned from the ground up for the age of AI.  
+To explore the architecture, check out the [ASTON_CODEBASE_GUIDE](https://github.com/astoneditor/aston/blob/main/ASTON_CODEBASE_GUIDE.md).
+
+---
 
 ## Note
-Work is temporarily paused on the Void IDE (this repo) while we experiment with a few novel AI coding ideas for Void. Stay alerted with new releases in our Discord channel.
+We’re not just building an editor.  
+We’re building the next era of development tools.  
+Stay tuned. Big things are coming.
+
+---
 
 ## Support
-You can always reach us in our Discord server or contact us via email: hello@voideditor.com.
+
+Need help or want to connect?  
+📧 Email us: holatoni@protonmail.com 
